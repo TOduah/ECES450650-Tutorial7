@@ -1,0 +1,4 @@
+ssh into picotte: ssh <drexel_email_user_ID>@picottelogin.urcf.drexel.edu
+
+search for /ifs/groups/eces450650Grp/data/CAMI_low_RL_S001__insert_270_GoldStandardAssembly.fasta.gz
+
