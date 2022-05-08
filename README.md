@@ -23,3 +23,6 @@ Assembly and annotation documentation: https://docs.kbase.us/apps/analysis/assem
 7. Search for and select "QUAST" in the App column on the left.
 8. Add file path/object.
 9. Submit job.
+
+### QUAST Report on Data Attached: 
+https://kbase.us/dynserv/66e9a37e7d3a56b64cc372c89d1eaafaa605c397.HTMLFileSetServ/api/v1/116626/6/1/$/0/report.html
